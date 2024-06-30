@@ -2,7 +2,7 @@
 
 👋 **Hello!**
 
-I'm Gaurang Ashava, a final-year student at SRM Institute of Science and Technology. I've applied for the Data Analyst Intern role at Kalvium, and I'd like to share a project I've been working on!
+I'm Gaurang Ashava, a final-year student at SRM Institute of Science and Technology. I've applied for the Data Analyst Intern role at Kalvium, and I'd like to share the assigned task I've been working on!
 
 ### 📊 Power BI Dashboard
 
