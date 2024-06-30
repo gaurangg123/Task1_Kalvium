@@ -1,11 +1,46 @@
-# Lok Sabha Election Results Dashboard 📊
+# README.md
 
-Hello! I'm Gaurang Ashava, a final-year student at SRM Institute of Science and Technology. I recently applied for the Data Analyst Intern role at Kalvium.
+## Lok Sabha Election Results Dashboard
 
-🔍 **Overview:**
-The PowerBI dashboard displays the total seats won by each political party in the Lok Sabha Elections. It's a visual representation of the election results.
+👋 **Hello!**
 
-🔍 **Insights:**
-The report provides deeper insights into the election outcomes. You can explore trends, analyze party performance, and understand the distribution of seats.
+I'm Gaurang Ashava, a final-year student at SRM Institute of Science and Technology. I've applied for the Data Analyst Intern role at Kalvium, and I'd like to share a project I've been working on!
 
-Feel free to check out the dashboard and explore the fascinating world of Indian politics!
+### 📊 Power BI Dashboard
+
+The dashboard showcases the total seats won by all parties in the Lok Sabha Elections. It provides a clear view of how many seats each party has secured.
+
+### 📋 Detailed Report
+
+In addition to the dashboard, there's a report offering deep insights into the election results. This report helps to understand the data better and draw meaningful conclusions.
+
+### 🛠️ Data Scraping with Selenium
+
+I used Selenium and Chrome Driver for data scraping from the official Election Commission of India results portal [Election Results 2024](https://results.eci.gov.in/PcResultGenJune2024/index.htm).
+
+- The code for scraping data from the Indore and Mumbai constituencies is included in the respective folders.
+
+### 📁 Dataset
+
+I fixed the basic parameters, including the number of headers and columns. The data is saved in CSV format, which can be easily used to generate visualizations in Power BI.
+
+### 📂 Folder Structure
+
+```
+- indore/
+  - indore_scraping_code.py
+  - indore_results.csv
+- mumbai/
+  - mumbai_scraping_code.py
+  - mumbai_results.csv
+- README.md
+```
+
+### 🚀 How to Use
+
+1. Clone this repository.
+2. Open the CSV files in Power BI to create your own visualizations.
+
+Happy analyzing! 😊
+
+---
