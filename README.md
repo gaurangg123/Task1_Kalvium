@@ -1,10 +1,11 @@
-# Task1_Kalvium
-Greetings !!
+# Lok Sabha Election Results Dashboard 📊
 
-Myself Gaurang Ashava, final year student at SRM Institute of Science and Technology. I've therefore applied for the role of Data Analyst Intern at Kalvium.
+Hello! I'm Gaurang Ashava, a final-year student at SRM Institute of Science and Technology. I recently applied for the Data Analyst Intern role at Kalvium.
 
-Above is the PowerBI Dashboard with the total seats gained by all the parties and it tells that each party won how many seats in the Lok Sabha Elections.
+🔍 **Overview:**
+The PowerBI dashboard displays the total seats won by each political party in the Lok Sabha Elections. It's a visual representation of the election results.
 
-There is a report which also tells us deep insights of the Results Portal.
+🔍 **Insights:**
+The report provides deeper insights into the election outcomes. You can explore trends, analyze party performance, and understand the distribution of seats.
 
-
+Feel free to check out the dashboard and explore the fascinating world of Indian politics!
