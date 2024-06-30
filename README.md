@@ -1,6 +1,4 @@
-# README.md
-
-## Lok Sabha Election Results Dashboard
+# Lok Sabha Election Results Dashboard
 
 👋 **Hello!**
 
