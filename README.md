@@ -16,7 +16,7 @@ In addition to the dashboard, there's a <a href="2024 Lok Sabha Election Results
 
 I used Selenium and Chrome Driver for data scraping from the official Election Commission of India results portal [Election Results 2024](https://results.eci.gov.in/PcResultGenJune2024/index.htm).
 
-- The code for scraping data from the Indore and Mumbai constituencies is included in the respective folders.
+- The code for scraping data from the <a href="indore results">Indore</a> and <a href ="mumbai results">Mumbai</a> constituencies is included in the respective folders.
 
 ### 📁 Dataset
 
