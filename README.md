@@ -24,23 +24,12 @@ I used Selenium and Chrome Driver for data scraping from the official Election C
 
 I fixed the basic parameters, including the number of headers and columns. The data is saved in CSV format, which can be easily used to generate visualizations in Power BI.
 
-### 📂 Folder Structure
-
-```
-- indore/
-  - indore_scraping_code.py
-  - indore_results.csv
-- mumbai/
-  - mumbai_scraping_code.py
-  - mumbai_results.csv
-- README.md
-```
 
 ### 🚀 How to Use
 
 1. Clone this repository.
 2. Open the CSV files in Power BI to create your own visualizations.
 
-Happy analyzing! 😊
+Thankyou for giving me this opportunity! 😊
 
 ---
