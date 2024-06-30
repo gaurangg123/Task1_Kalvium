@@ -8,11 +8,11 @@ I'm Gaurang Ashava, a final-year student at SRM Institute of Science and Technol
 
 ### 📊 Power BI Dashboard
 
-The dashboard showcases the total seats won by all parties in the Lok Sabha Elections. It provides a clear view of how many seats each party has secured.
+The <a href="Dashboard.pbit">Dashboard</a> showcases the total seats won by all parties in the Lok Sabha Elections. It provides a clear view of how many seats each party has secured.
 
 ### 📋 Detailed Report
 
-In addition to the dashboard, there's a <a href="2024 Lok Sabha Election Results Report.docx">Report</a> offering deep insights into the election results. This report helps to understand the data better and draw meaningful conclusions.
+In addition to the dashboard, there's a <a href="2024 Lok Sabha Election Results Report.pdf">Report</a> offering deep insights into the election results. This report helps to understand the data better and draw meaningful conclusions.
 
 ### 🛠️ Data Scraping with Selenium
 
